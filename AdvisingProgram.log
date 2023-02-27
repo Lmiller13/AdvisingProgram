@@ -1,0 +1,5 @@
+﻿  AdvisingProgram.cpp
+U:\AdvisingProgram\AdvisingProgram\AdvisingProgram.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+U:\AdvisingProgram\AdvisingProgram\AdvisingProgram.cpp(122,31): warning C4018: '<': signed/unsigned mismatch
+U:\AdvisingProgram\AdvisingProgram\AdvisingProgram.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+  AdvisingProgram.vcxproj -> U:\AdvisingProgram\Debug\AdvisingProgram.exe
